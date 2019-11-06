@@ -97,9 +97,9 @@ header-img: "img/post-bg.jpg"
 ## <a name="teaching"> 教学工作 </a>
 
 - **2019-2020学年第1学期**
-    - **[数学分析](posts/2019-08-12-2019-2020-1-ma.html)**.
+    - **[数学分析](https://www.cnblogs.com/sunfenglong/p/11333559.html)**.
     数学科学学院, 19级信息与计算科学专业.
-    - **<a href="posts/2019-08-27-2019-2020-1-fa.html">泛函分析</a>**.
+    - **[泛函分析](https://www.cnblogs.com/sunfenglong/p/11416896.html)**.
 数学科学学院, 17级数学与应用数学专业(非师范)2班.
     - **指导本科生课程论文**.
 17级9名学生.
